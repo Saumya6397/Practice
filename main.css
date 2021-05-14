@@ -1,0 +1,51 @@
+body{
+
+    background-color: azure;
+    text-align: center;
+}
+
+
+.circle{
+
+margin:auto;
+background-color:black;
+margin-top: 100px;
+width:20%;
+height:80px;
+border:cornsilk 5px;
+border-radius:300px;
+}
+
+h1{
+
+    color:black;
+    text-align:center;
+    display:inline;
+    font-size:55px;
+
+}
+
+h2{
+
+    color:whitesmoke;
+    text-align:center;
+    display:inline;
+    font-size:55px;
+    
+    }
+
+button{
+
+    background-color: white; 
+    margin:10px;
+    width:80px;
+    height:35px;
+    border:2px;
+    border-radius: 10px;
+}
+
+.btn{
+
+    margin-top: 55px;
+}
+
